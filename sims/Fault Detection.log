@@ -1,0 +1,30 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/jely6/Documents/FPGA_Logic_Analyzer/sims/Fault Detection.net
+Start Time: Mon Oct  5 09:32:09 2026
+solver = Normal
+Maximum thread count: 14
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M4": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M4": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.069 seconds.
+
+Files loaded:
+/Users/jely6/Documents/FPGA_Logic_Analyzer/sims/Fault Detection.net
+/Users/jely6/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/sub/ADI.lib
+
