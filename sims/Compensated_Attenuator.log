@@ -1,6 +1,6 @@
 LTspice 26.0.2 for MacOS
 Circuit: /Users/jely6/Documents/FPGA_Logic_Analyzer/sims/Compensated_Attenuator.net
-Start Time: Sat Oct  3 19:58:26 2026
+Start Time: Thu Oct  8 13:21:49 2026
 solver = Normal
 Maximum thread count: 14
 tnom = 27
@@ -8,23 +8,23 @@ temp = 27
 method = trap
 Y:\Documents\FPGA_Logic_Analyzer\sims\Compensated_Attenuator.net(7): Limiting rise time to 5e-08.
 
-V1 N001 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V1 Vin 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Y:\Documents\FPGA_Logic_Analyzer\sims\Compensated_Attenuator.net(7): Limiting fall time to 5e-08.
 
-V1 N001 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V1 Vin 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Y:\Documents\FPGA_Logic_Analyzer\sims\Compensated_Attenuator.net(10): Limiting rise time to 5e-08.
 
-V2 N002 0 PULSE(0 2.8 0.0000003 0 0 0.0000005 0.000001)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V2 N001 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Y:\Documents\FPGA_Logic_Analyzer\sims\Compensated_Attenuator.net(10): Limiting fall time to 5e-08.
 
-V2 N002 0 PULSE(0 2.8 0.0000003 0 0 0.0000005 0.000001)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V2 N001 0 PULSE(0 2.8 0 0 0 0.0000005 0.000001)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .OP point found by inspection.
 .OP point found by inspection.
-Total elapsed time: 0.037 seconds.
+Total elapsed time: 0.033 seconds.
 
 Files loaded:
 /Users/jely6/Documents/FPGA_Logic_Analyzer/sims/Compensated_Attenuator.net
