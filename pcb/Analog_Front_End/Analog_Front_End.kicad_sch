@@ -1,0 +1,117 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4f54a6ff-ef95-49cf-8ec8-d37622e08520")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 71.12 127)
+		(size 62.865 27.305)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4be5b0f3-b69f-47df-8b4f-42b456c968e5")
+		(property "Sheetname" "PWR"
+			(at 71.12 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWR.kicad_sch"
+			(at 71.12 154.8896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Analog_Front_End"
+				(path "/4f54a6ff-ef95-49cf-8ec8-d37622e08520"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 162.56)
+		(size 62.865 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a7eb0290-0440-4914-af7c-14cbe5c1fc8f")
+		(property "Sheetname" "AFE"
+			(at 71.12 161.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AFE.kicad_sch"
+			(at 71.12 189.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 71.12 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Analog_Front_End"
+				(path "/4f54a6ff-ef95-49cf-8ec8-d37622e08520"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
