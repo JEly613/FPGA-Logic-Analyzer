@@ -416,7 +416,7 @@
         "uuid": "4f54a6ff-ef95-49cf-8ec8-d37622e08520"
       }
     ],
-    "used_designators": "U1-2,C1-3,R1-9,#PWR1-8,D1-2",
+    "used_designators": "S1,U3-5,F1,C4-8,#PWR9-19,J1,R10-12",
     "variants": []
   },
   "sheets": [
@@ -431,6 +431,10 @@
     [
       "a7eb0290-0440-4914-af7c-14cbe5c1fc8f",
       "AFE"
+    ],
+    [
+      "dfb21e45-0eec-4849-a4fe-e438a9950d59",
+      "FPGA"
     ]
   ],
   "text_variables": {},
