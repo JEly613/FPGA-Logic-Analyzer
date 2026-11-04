@@ -2710,7 +2710,7 @@
 			)
 		)
 	)
-	(global_label "CH1_DAC_REF"
+	(global_label "CH2_DAC_REF"
 		(shape output)
 		(at 209.55 43.18 0)
 		(fields_autoplaced yes)
@@ -2758,7 +2758,7 @@
 			)
 		)
 	)
-	(global_label "CH1_DAC_REF"
+	(global_label "CH4_DAC_REF"
 		(shape output)
 		(at 209.55 50.8 0)
 		(fields_autoplaced yes)
@@ -2974,7 +2974,7 @@
 			)
 		)
 	)
-	(global_label "CH1_DAC_REF"
+	(global_label "CH3_DAC_REF"
 		(shape output)
 		(at 209.55 48.26 0)
 		(fields_autoplaced yes)

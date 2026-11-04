@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Logic_Analyzer_AFE") (type "KiCad") (uri "${KIPRJMOD}/AFE_Symbols") (options "") (descr ""))
+)

@@ -416,7 +416,7 @@
         "uuid": "4f54a6ff-ef95-49cf-8ec8-d37622e08520"
       }
     ],
-    "used_designators": "S1,U3-5,F1,C4-8,#PWR9-19,J1,R10-12",
+    "used_designators": "U1-2,U6,R1-10,R13-16,C1-3,C5,C11-12,D1-4,#PWR1-8,#PWR12,#PWR20-24",
     "variants": []
   },
   "sheets": [
@@ -435,6 +435,14 @@
     [
       "dfb21e45-0eec-4849-a4fe-e438a9950d59",
       "FPGA"
+    ],
+    [
+      "2c93198d-320d-4684-841e-cc8df3aa86f9",
+      "Analog Channel"
+    ],
+    [
+      "58d9d263-67b8-4b5c-84c3-d5b2fef73e7a",
+      "Digital Channel"
     ]
   ],
   "text_variables": {},
