@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 71.12 127)
+		(at 90.17 80.01)
 		(size 62.865 27.305)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "4be5b0f3-b69f-47df-8b4f-42b456c968e5")
 		(property "Sheetname" "PWR"
-			(at 71.12 126.2884 0)
+			(at 90.17 79.2984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "PWR.kicad_sch"
-			(at 71.12 154.8896 0)
+			(at 90.17 107.8996 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,7 +52,7 @@
 		)
 	)
 	(sheet
-		(at 71.12 162.56)
+		(at 90.17 115.57)
 		(size 62.865 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -68,7 +68,7 @@
 		)
 		(uuid "a7eb0290-0440-4914-af7c-14cbe5c1fc8f")
 		(property "Sheetname" "AFE"
-			(at 71.12 161.8484 0)
+			(at 90.17 114.8584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +79,7 @@
 			)
 		)
 		(property "Sheetfile" "AFE.kicad_sch"
-			(at 71.12 189.8146 0)
+			(at 90.17 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -90,7 +90,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 71.12 162.56 0)
+			(at 90.17 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109,7 +109,7 @@
 		)
 	)
 	(sheet
-		(at 70.485 85.09)
+		(at 89.535 38.1)
 		(size 62.865 27.94)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -125,7 +125,7 @@
 		)
 		(uuid "dfb21e45-0eec-4849-a4fe-e438a9950d59")
 		(property "Sheetname" "FPGA"
-			(at 70.485 84.3784 0)
+			(at 89.535 37.3884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -136,7 +136,7 @@
 			)
 		)
 		(property "Sheetfile" "FPGA.kicad_sch"
-			(at 70.485 113.6146 0)
+			(at 89.535 66.6246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
